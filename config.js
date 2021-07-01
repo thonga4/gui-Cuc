@@ -11,7 +11,7 @@ const CONFIG = {
     
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    desc: 'Làm bạn gái anh ko?',
+    desc: 'Làm bạn gái anh nhé?',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Đồng nghiệp thôi :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
